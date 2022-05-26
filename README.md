@@ -1,1 +1,2 @@
-# Thesis
+# Final Thesis Code
+I construct a system that reads nerve signals from the forearm and produces, preliminarily, predictions of fingertip position, in lieu of more generalized output. Despite the dubious quality of my data, stunted in the frequency domain by a low sampling rate, I create a machine-learning model that predicts the locations of the fingertips within an inch. I reduce the model complexity for use in real time. Nevertheless, the millimeter-level precision claimed by CTRL Labs (now Meta), a firm producing a similar system, remains elusive. Much space for innovation remains.
